@@ -1,0 +1,15 @@
+.header {
+  font-family: 'Baloo Bhai', cursive;
+}
+#buttons .btn {
+margin: 25px;
+font-size: 45px;
+}
+
+#mood .col {
+  font-family: 'Baloo Bhai', cursive;
+}
+
+#pet-count .col {
+  font-family: 'Baloo Bhai', cursive;
+}
